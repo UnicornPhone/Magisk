@@ -1,0 +1,1 @@
+- [How to ROOT Android phone with Magisk](https://youtu.be/EsQ_0KvSHf0)
